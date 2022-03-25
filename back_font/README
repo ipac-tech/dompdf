@@ -1,0 +1,3 @@
+-- create Aozora ont
+
+$ php back_font/load_font.php Aozora  back_font/Aozora_Mincho_Medium.ttf
